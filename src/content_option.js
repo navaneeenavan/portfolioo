@@ -48,6 +48,10 @@ const skills = [{
         value: 95,
     },
     {
+        name: "Expo React Native ",
+        value: 95,
+    },
+    {
         name: "Express JS and Mongo Db",
         value: 85,
     },
@@ -66,6 +70,14 @@ const skills = [{
     {
         name: "Machine Learning",
         value: 75,
+    },
+                {
+        name: "Docker  ",
+        value: 50,
+    },
+                {
+        name: "Ios App Development - Currently Studying",
+        value: 25,
     },
 ];
 
