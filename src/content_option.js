@@ -114,7 +114,7 @@ const dataportfolio = [
     {
         img: "https://gms.psgtech.ac.in/static/logo.jpeg",
         description: "Sigma General Maintenance Application - Student",
-        link: "https://expo.dev/accounts/kavvya_subramani/projects/GMS-Student_Application/builds/516030c7-629e-48d1-b235-83a113109321",
+        link: "https://expo.dev/artifacts/eas/b3Pz6o8Hu3PGfqUKo4yaLV.apk",
     },
     {
         img: "https://blog-frontend.envato.com/cdn-cgi/image/width=2400,quality=75,format=auto/uploads/sites/2/2023/06/HowDesignPortfolio-Blog.jpeg",
