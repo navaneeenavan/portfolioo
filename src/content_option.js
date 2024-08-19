@@ -109,7 +109,7 @@ const dataportfolio = [
     {
         img: "https://gms.psgtech.ac.in/static/logo.jpeg",
         description: "Sigma General Maintenance Application - Admin",
-        link: "https://expo.dev/accounts/gaming_dood/projects/SIGMA-GMS-Admin-Application/builds/975758c6-b620-4dea-a668-5d9811349b2d",
+        link: "https://expo.dev/artifacts/eas/jFVi5wTNj9wXSvcgiGmHYZ.apk",
     },
     {
         img: "https://gms.psgtech.ac.in/static/logo.jpeg",
